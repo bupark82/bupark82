@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently learning AGI.
+I am interested in the ROI of a startup using OpenClaw.
 <!--
 **bupark82/bupark82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
