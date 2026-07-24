@@ -8,7 +8,7 @@ I am interested in the ROI of a startup using OpenClaw.
 - 💬 Ask me about AGI and AI.
 - 📫 How to reach me: bupark82@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: HAPPY
 <!--
 **bupark82/bupark82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
