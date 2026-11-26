@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently learning AGI.
+I'm currently learning AGI and RSI.
 I am interested in the ROI of a startup using OpenClaw.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning AGI and RSI.
